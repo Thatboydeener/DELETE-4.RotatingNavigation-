@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;_3/Indexcss.css&apos; to &apos;Index.css&apos;" description="Rename resource &apos;Indexcss.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Indexcss.css" name="Index.css" stamp="1716504218600" updateReferences="true"/>
+</session>
